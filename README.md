@@ -7,9 +7,10 @@ We have built a web app that tracks one's mental well-being and acts accordingly
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=61DA0B)
 ![Express.js](https://img.shields.io/badge/Express.js-brown?style=for-the-badge&logo=express&logoColor=white)
-![Tailwind css](https://img.shields.io/badge/Tailwind%20CSS-E11D48?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-orange?style=for-the-badge&logo=css3&logoColor=white)
-
+![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ## 🔧 Setting up the project locally
 
 ### Clone the repository:
