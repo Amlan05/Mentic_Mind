@@ -24,7 +24,7 @@ git clone https://github.com/Amlan05/Mentic_Mind
 ### Start the front end react project's server
 
 ```
-cd Frontend_Main
+cd Frontend_main
 npm install
 npm run dev
 
